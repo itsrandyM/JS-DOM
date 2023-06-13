@@ -27,7 +27,7 @@ body {
 
 .container {
     width: 550px;
-    height: 450px;
+    height: 650px;
 }
 
 .main-content {
@@ -39,16 +39,17 @@ body {
     box-shadow: 0 0 10px;
 }
 .main-content .text-area {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     line-height: 1.5;
 }
 
 
 .person {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     color: red;
     text-transform: uppercase;
     margin-top: 20px;
+    font-weight: 300;
 }
 
 .button-area button {
@@ -57,6 +58,7 @@ body {
     font-size: 1.3rem;
     padding: 10px 15px;
     margin-top: 20px;
+    border-radius: 10px;
 }
 
 .button-area button:active {

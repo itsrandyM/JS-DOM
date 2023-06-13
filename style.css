@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+    font-family: 'lato', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background: url(books-shelves-library.jpg) no-repeat center center/ cover;
+
+}
+
+.header {
+    color: white;
+    background-color: #262626;
+    width: 80%;
+    margin: 20px auto;
+    border: 2px solid #fff;
+    padding: 4px;
+    border-radius: 5px;
+}
